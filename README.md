@@ -1,13 +1,19 @@
 # GPU Computing in Robotics
 
 environment: 
+===
 Ubuntu 18.04.2
-cuda-10.0
-Nvidia 1080ti 
-pcl-1.8 binary install 
-sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl
-sudo apt install libpcl-dev
 
+cuda-10.0
+
+Nvidia 1080ti 
+
+**pcl-1.8** binary installed
+```
+sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl
+
+sudo apt install libpcl-dev
+```
 
 ref:
 https://github.com/JanuszBedkowski/gpu_computing_in_robotics
